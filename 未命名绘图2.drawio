@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-01T12:48:17.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="y6HJWEMId6nI_boRedl1" version="24.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-08-01T12:58:45.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="hCJOWOgJbdGyHGjZI-96" version="24.7.1" type="github" pages="4">
   <diagram name="第 1 页" id="RIVABgKGVWVkQaULtAYW">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,18 +211,20 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 2 页 的副本" id="zFD7OFWn20aCfEaL28C4">
-    <mxGraphModel dx="1120" dy="468" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="632" dy="279" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="FWC36M836ZHgN-QyWDsQ-0" />
         <mxCell id="FWC36M836ZHgN-QyWDsQ-1" parent="FWC36M836ZHgN-QyWDsQ-0" />
         <mxCell id="FWC36M836ZHgN-QyWDsQ-2" value="" style="whiteSpace=wrap;html=1;fillColor=none;aspect=fixed;strokeWidth=2;perimeterSpacing=0;" vertex="1" parent="FWC36M836ZHgN-QyWDsQ-1">
-          <mxGeometry x="215" y="40" width="400" height="400" as="geometry" />
+          <mxGeometry x="192" y="17" width="423" height="423" as="geometry" />
         </mxCell>
-        <mxCell id="FWC36M836ZHgN-QyWDsQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FWC36M836ZHgN-QyWDsQ-1" source="FWC36M836ZHgN-QyWDsQ-4" target="FWC36M836ZHgN-QyWDsQ-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="FWC36M836ZHgN-QyWDsQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="FWC36M836ZHgN-QyWDsQ-1" source="FWC36M836ZHgN-QyWDsQ-4" target="FWC36M836ZHgN-QyWDsQ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="86" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FWC36M836ZHgN-QyWDsQ-4" value="已知N求因数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="FWC36M836ZHgN-QyWDsQ-1">
-          <mxGeometry x="335" y="50" width="160" height="30" as="geometry" />
+          <mxGeometry x="335" y="46" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FWC36M836ZHgN-QyWDsQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FWC36M836ZHgN-QyWDsQ-1" source="FWC36M836ZHgN-QyWDsQ-6" target="FWC36M836ZHgN-QyWDsQ-29">
           <mxGeometry relative="1" as="geometry" />
@@ -269,8 +271,11 @@
         <mxCell id="FWC36M836ZHgN-QyWDsQ-19" value="$$P=\gcd (x,N)$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="FWC36M836ZHgN-QyWDsQ-1">
           <mxGeometry x="335" y="402" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FYyNGCoSwxwJ5XH3K2fH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="FWC36M836ZHgN-QyWDsQ-1" source="FWC36M836ZHgN-QyWDsQ-20" target="FWC36M836ZHgN-QyWDsQ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FWC36M836ZHgN-QyWDsQ-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;$$w+0.25\to w$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="FWC36M836ZHgN-QyWDsQ-1">
-          <mxGeometry x="225" y="150" width="90" height="30" as="geometry" />
+          <mxGeometry x="226" y="200" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FWC36M836ZHgN-QyWDsQ-21" value="N是普通整数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="FWC36M836ZHgN-QyWDsQ-1">
           <mxGeometry x="515" y="150" width="90" height="30" as="geometry" />
@@ -298,18 +303,6 @@
         </mxCell>
         <mxCell id="FWC36M836ZHgN-QyWDsQ-29" value="$$w&amp;lt;4$$" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="FWC36M836ZHgN-QyWDsQ-1">
           <mxGeometry x="335" y="150" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FWC36M836ZHgN-QyWDsQ-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="FWC36M836ZHgN-QyWDsQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="135" as="sourcePoint" />
-            <mxPoint x="415" y="135" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FWC36M836ZHgN-QyWDsQ-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="FWC36M836ZHgN-QyWDsQ-1" source="FWC36M836ZHgN-QyWDsQ-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="180" as="sourcePoint" />
-            <mxPoint x="270" y="135" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FWC36M836ZHgN-QyWDsQ-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="FWC36M836ZHgN-QyWDsQ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
